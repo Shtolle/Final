@@ -3,7 +3,6 @@ import speech_recognition as sr
 import openai
 
 from os import system
-# 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
 openai.api_key = 'API_KEY'
 
 r = sr.Recognizer()
